@@ -1,0 +1,139 @@
+==========================
+=====CHANGELOG v3.0======
+==========================
+- A New Beginning
+- Fixes and cleanup
+
+==========================
+========TO DO LIST=======
+==========================
+- Android P transition
+- Weather in statusbar headers with icon support
+- Statusbar temperature
+- Battery bar with color change & animation on charge
+
+==========================
+======ABOUT ROM =========
+==========================
+- Powered by S.i.X ROM
+- Revision 8.1.0 r20 (OPM2.171019.029)
+- ROM Logo in About Phone
+- SuperSU or Magisk
+- Flash Kernel
+- Disable Tether checks
+- Pixel 2 black bootanimation
+- Nephilim Settings dashboard
+- Advanced reboot
+- Nephilim Logo in Statusbar
+- Brightness Icon and position settings
+- Current Charging status on Lockscreen
+- Custom Editor app for screenshot notification edit
+- Custom App opening/closing Animations
+- Custom Carrier Label
+- Custom QS headers
+- Customize Night mode brightness settings
+- CPU info overlay
+- Dash charging support
+- Disable lockscreen media art
+- Disable fullscreen keyboard
+- Disable LockscreenAntiFalsingClassifierEnabled 
+- Double tap to sleep on lockscreen
+- Double tap power for camera disabled by default
+- DT2S on navbar (for smartbar)
+- DT2S on status bar
+- DUI Fling (navbar with gestures)
+- DUI Pulse sound EQ in the statusbar
+- DUI Smartbar (on-screen navbar)
+- DUI Stock navbar option
+- Enable Dessert Cake dream
+- Enable power save config of system apps
+- Fingerprint authentication vibration
+- Fingerprint on reboot (optional)
+- Fingerprint scrolling
+- Hide lockscreen items
+- Installed Apps shows link to Google Playstore
+- Kill app button in notification guts
+- Launch music player when headset is connected
+- Lockscreen Shortcuts
+- Long-press power while display is off for torch
+- Membar in recents (default and in SlimRecents)
+- Network traffic in status bar
+- Notification Light
+- OmniJaws (QS weather)
+- Open Running Services from QS panel
+- Partial screenshot
+- Power menu on lock screen hide
+- QS Tiles animations support
+- QS Tiles interpolators animation
+- QS Feedback for tiles
+- QS Footer warnings
+- QS Switchable for location
+- QS Tiles Columns
+- QS Tiles Rows
+- QS Tile labels visibility
+- QS Tiles - cpu, disable music track, sync, caffeine, PIP, nfc, sound, usb, system language, ime selector, usb tether, screenshot, flashlight, compass, ambient display, ambient display battery, music playback title display, night mode,theme
+- Quick settings disable on lockscreen
+- Quick settings fast pull down
+- Reset Battery Stats
+- Screen Record
+- Screenshot sound toggle
+- Scrolling Cache
+- Silent Mode
+- Stock Recents icon pack support
+- Small QS Tiles (scrollable)
+- Smartbar: Pixel Button Animatiom
+- SmartBar: Show arrows for next/previous track when playing audio
+- Statusbar Ticker for notifications and music title
+- Suspend actions
+- Swap volume buttons
+- Markup edit action support
+- Unlink notification volume
+- Turbo power charging support
+- Volume rocker music control
+- VoLte icon
+- Weather settings for Lockscreen
+- Disable lockscreen ripple
+- Lockscreen quick unlock
+- Lockscreen scramble PIN layout when unlocking
+- Disable dashboards conditions
+- Disable dashboards suggestions
+- Smart Pixels with QS tiles
+- Fix Substratum breakage from March update
+- Substratum Service support
+- Hold "volume up" during boot to disable all overlays
+- Increase available volume levels
+- Unlink notification volume is back
+- Fix Substratum breakage from March update
+- Force Expanded Notifications
+- Set Persisting Mobile Data connection off by default
+- Allow to quickly open Running Services from QS panel
+- Dialer Lookup
+- Pebbles theme manager (built-in themes)
+- Font manager (built-in fonts)
+– Pebbles theme QS tile
+– QS panel transparency mod
+
+==========================
+===CREDITS AND THANKS====
+==========================
+- Beanstown106
+- Daveyannihilation
+- Ezio84
+- MikeyMopar
+- Vic Perriera
+- David Hayes
+- Nathan Chancellor (TheFlash)
+- Pure Nexus Project
+- Team BlackOut
+- ABC
+- Dirty Unicorns
+- Omni
+- Benzo
+- Nitrogen
+- Screwd AOSP
+- Liquid Remix
+- Google
+- Lineage OS
+- AICP ROM
+- And to all those that get a buttplug because of what i do...
+- Well, you know what to do once you get there!!!
