@@ -1,6 +1,10 @@
-==========================
-=====CHANGELOG v3.1======
-==========================
+# Nephilim ROM
+
+[<center><img src="https://lh3.googleusercontent.com/-6L7UueFqx8E/AAAAAAAAAAI/AAAAAAAAAA8/skAr5QExCGs/w360-h203-p-rw/photo.jpg" height="40%" width="40%;"/></center>](https://plus.google.com/u/0/communities/104401050580313496153)
+
+### Enjoy!!!
+
+### CHANGELOG v3.1
 - Add Substatum v984
 - Add Renown substratum theme
 - Add option to disable scrolling cache
@@ -25,15 +29,11 @@
 - Powermenu: Remove soft reboot option from advanced menu
 - Powermenu: Move advance reboot to the top of list
 
-==========================
-=====CHANGELOG v3.0======
-==========================
+### CHANGELOG v3.0
 - A New Beginning
 - Fixes and cleanup
 
-==========================
-========ABOUT ROM========
-==========================
+### About ROM
 - Revision 8.1.0 r20 (OPM2.171019.029)
 - Powered by S.i.X ROM
 - ROM Logo in About Phone
@@ -133,9 +133,7 @@
 – Pebbles theme QS tile
 – QS panel transparency mod
 
-==========================
-====CREDITS AND THANKS====
-==========================
+### CREDITS AND THANKS
 - Beanstown106
 - Daveyannihilation
 - Ezio84
