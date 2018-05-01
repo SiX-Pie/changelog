@@ -4,6 +4,31 @@
 
 ### Enjoy!!!
 
+### CHANGELOG v3.2
+- Enable Smart Pixels
+- Add index rules for our SiX Settings features
+- Add vendor patch level property to AOSP security dialog
+- Add search bar to apps, notifications, & battery optimizations
+- Ambient music fallback: be sure to remove track length info
+- Always refresh system apps launcher shortcuts on build date change
+- Set text color to white for ambient battery display
+- Fix potential NPE and handle disabled packages properly
+- Speedup stock navbar back Kill timeout
+- Change Renown theme for Penguins v1.4
+- PackageManager: Init known locales at WelcomeActivity in SetupWizard
+- DUI: Fix back press count for panic with HW buttons
+- Refresh search index check on build change
+- Remove all delays on showing task header icons
+- Fingerprints: Increase MAX_FAILED_ATTEMPTS
+- Add zen mode off hook to prevent problems with ringer mode
+- Don't animate screen brightness when turning the screen on
+- ChooserActivity blacklist: fix FC on clean flash
+- ChooserAcitivity: add blacklist option to items longpress menu
+- Blacklist apps in the ChooserAcitivity (e.g. Share button)
+- Longpress QS settings to launch SixSettings
+- Add vendor patch level system property
+- Speed up even more
+
 ### CHANGELOG v3.1
 - Add Substatum v984
 - Add Renown substratum theme
@@ -154,4 +179,4 @@
 - Lineage OS
 - AICP ROM
 - And to all those that get a buttplug because of what i do...
-- Well, you know what to do once you get there!!!
+- Well, you know where to go and what to do once you get there!!!
