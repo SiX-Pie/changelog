@@ -4,6 +4,14 @@
 
 ### Enjoy!!!
 
+### CHANGELOG v3.3
+- Update revision to 8.1.0 r29 (OPM2.171019.029.B1)
+- Fix ResolverActivity don't show items
+- Themes: Add 17 more font styles
+- Stock Recents icon pack code fixes
+- Ensure that 'Tap to wake' is off on all devices
+- Wahoo: Upstream kernel to 4.4-oreo-m2 8.1.0 r0.51
+
 ### CHANGELOG v3.2
 - Enable Smart Pixels
 - Add index rules for our SiX Settings features
