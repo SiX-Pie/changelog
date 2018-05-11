@@ -1,4 +1,41 @@
 ==========================
+=====CHANGELOG v3.4======
+==========================
+- Add OTA Updates
+- Base: Fix facelock crash when lock screen is disabled
+- AppOps: Fix NPE from AppOpsManager.checkPackage
+- AppOps: Avoid RuntimeException and log spam
+- Fix race condition when writing UidState of appops
+- AppOps: Do not prune apps that are not present
+- AppOps: Add BOOT_COMPLETED operation
+- Add AppOps to security preference
+- AppOpsDetails: Check app permissions safely
+- AppOps: Add BOOT_COMPLETED option and BootUp category
+- Kill net stats logspam
+- Crash occured due to null pointer exception
+- Hwui: Check the buffer status before draw
+- Add permission whitelist for EmergencyInfo app
+- Base: Remove dep between accessability rotate and tile
+- ParcelFileDescriptor: can we stop the panic here?
+- KernelWakelockReader: stop the panic
+- SystemUI: Fix wierd 'IDAT: chunk data is too large' error
+- SystemUI: make sure to expand all the way when flinging
+- Show full alarm info
+- Base: Printservice: dont spoil log if not needed
+- Core: Set permissions for media provider package
+- Clean receivers completely when forceStop the process
+- [Process] remove duplicated incorrectly code in ProcessRecord
+- Fix broadcast receiver leak issue
+- Send broadcast to MediaScannerReceiver to refresh gallery
+- Add make_unique function for jni
+- Fix notification shows wrong question
+- Fix visibility of single-line view in expanded group notification
+- Base: Preference seekbar widgets should follow the rules
+- Extend reboot tile to add power off
+- Base: Catch what you cant explain
+- SlimRecents: Add fingerprint scanner gestures
+
+==========================
 =====CHANGELOG v3.3======
 ==========================
 - Update revision to 8.1.0 r29 (OPM2.171019.029.B1)
