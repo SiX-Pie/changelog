@@ -4,6 +4,34 @@
 
 ### Enjoy!!!
 
+### CHANGELOG v3.5
+- Update Brightness bar icons (left/right)
+- Lockscreen weather: Improve weather view layout
+- Lockscreen weather: Move into keyguard_clock_container
+- SystemUI: Add padding to weather panel top
+- Fixed handling of data URI schemes in Intent.toUri
+- Fix for wallpaper flicker on bootup on some targets
+- MediaScanner: Detect folders
+- Parcel: Avoid NPE in finalization
+- Don't refresh ui when screen off
+- Check for Face Unlock Running before skipping bouncer
+- Led light preview: switch led off before changing the color
+- Adding optimization to reduce callbacks to TextClock
+- Make resolver list fully themeable
+- Fix low probability deadlock
+- Set all sdcards to visible
+- Don't nuke all volumes when decrypting
+- Shut down volumes before restarting framework
+- Configure additional TCP parameters
+- Removed instead of adding @hide to internal APIs
+- Port password retention feature for HW FDE
+- Don't nuke all volumes when decrypting
+- Shut down volumes before restarting framework
+- Prevent NPE with DropBoxManager
+- Ensure VolumeRecord with UUID exists before modifying
+- Ensure the generation is not changed before put value to cache
+- Update AOSP security bulletin link 
+
 ### CHANGELOG v3.4
 - Add OTA Updates
 - Base: Fix facelock crash when lock screen is disabled
