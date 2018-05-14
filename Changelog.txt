@@ -1,4 +1,51 @@
 ==========================
+=======TO-DO LIST========
+==========================
+- Replace Launcher3 for P Launcher
+- Add Active gestures (Squeeze)
+- Fix AOSP Dialer for squeeze to answer call
+
+==========================
+=====CHANGELOG v3.6======
+==========================
+- Add some SiX prop edits
+- Allow tethering without provisioning app
+- Update Penguins theme to v1.6
+- Don't compensate for display rotation in app screenshot path
+- Set statusbar round corners padding conditionally
+- SystemUI: modify overscroll bug in NotificationStackScrollLayout
+- base: Use MethodHandles within the framework
+- Frameworks: Clean up SystemProperties
+- Frameworks: Fix Binder.joinThreadPool
+- PackageManagerService: Avoid NPE in matchComponentForVerifier
+- Release SQLite page cache as much as it can
+- BackupAgent: add backup shared mode
+- Disable PIN entry after successful quick unlock
+- Bring back missing menu items on text floating action mode
+- Frameworks: In the kill handler ensure the logging handler was run
+- SystemUI: add more notification snooze times
+- SystemUI: Catch IllegalArgumentException in stopScreenshot()
+- core: Smoother Upload and Download Animation
+- frameworks/base: Fix ContentService JNI leaks
+- Fix array exception in createAutoBrightnessSpline
+- SQLite: Do integrity_check only once
+- SQLiteDatabase: Catch corrupt exception during transaction
+- SystemUI: thread protect keyguard callbacks
+- Keyguard: Allow disabling fingerprint wake-and-unlock
+- SystemUI: Adjusted animation timing
+- SystemUI: Add missing recycle calls
+- SystemUI:Keyguard: disable logspilling debug
+- SystemUI: Make Running Services icon smaller
+- SystemUI: Enable dualTarget on CellularTile
+- Give contact permissions to car kits by default
+- base: ROM size calculation error on 4GB ROM device 
+- Disable bluetooth by default
+- Add an option to force pre-O apps to use full screen aspect ratio
+- SystemUI: Tiny expanding improvement
+- OCD: Rearrange lockscreen, buttons and strings
+- Dialer: Disable anti-falsing for call answer screen
+
+==========================
 =====CHANGELOG v3.5======
 ==========================
 - Update Brightness bar icons (left/right)
