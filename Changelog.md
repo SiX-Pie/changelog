@@ -9,6 +9,31 @@
 - Add Active gestures (Squeeze)
 - Fix AOSP Dialer for squeeze to answer call
 
+### CHANGELOG v3.7 WIP
+- Enable Navigaton bar by default
+- Fix the strange recents Android P transition
+- Show toast icon of app
+- Update toast icon to properly work with 8.1
+- Add Toast icon switch
+- Improve power menu advanced toggle icon
+- Multi-User fixes
+- Settings: add OmniJaws settings activity
+- Refresh payment preference while resume
+- Fix wrong switch state set in DevelopmentSettings
+- Settings: Wi-Fi WPS Materialized icon
+- Fix BT stop searching after rotating screen
+- Wifi: Restore hidden flag for hidden networks on update network
+- [REVERT] Remove Sleep options from Advanced wifi
+- Change weather wind value to pinWheel
+- NightLight: Allow lower temperatures
+- Screenshot tile: persist screenshot type after reboot
+- Bluetooth: Change disconnected icon to be 40% transparent 
+- Update Permissions whitelist
+- Add back do not disturb mode switches
+- Remove overlay for launcher3 icons
+- Remove overlay for phone launcher icons in dialer package
+- Dialer: Add adaptive icon
+
 ### CHANGELOG v3.6
 - Add some SiX prop edits
 - Allow tethering without provisioning app
