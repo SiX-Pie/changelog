@@ -8,8 +8,18 @@
 - Replace Launcher3 for P Launcher
 - Add Active gestures (Squeeze)
 - Fix AOSP Dialer for squeeze to answer call
+- Enable AppOps
 
-### CHANGELOG v3.7 WIP
+### CHANGELOG v3.8
+- Add Statusbar center clock
+- Add back Battery level animation
+- Add back Battery bar
+- Add Battery bar gradient color
+- Battery bar enhancements
+- Fix memory leak of page Languages & input
+- [REVERT] Improve power menu advanced toggle icon
+
+### CHANGELOG v3.7
 - Enable Navigaton bar by default
 - Fix the strange recents Android P transition
 - Show toast icon of app
