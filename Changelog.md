@@ -10,6 +10,32 @@
 - Fix AOSP Dialer for squeeze to answer call
 - Enable AppOps
 
+### CHANGELOG v4.0
+- Update revision to 8.1.0 r33 (OPM2.171026.006.C1)
+- Wahoo: Update kernel to 8.1.0_r0.65 (June)
+- Update notification count icons
+- Show infinity for large notification counts
+- Small optimization for notification icon numbers
+- Forward-port notification counters
+- Add bootloader option to 'Reboot' tile
+- Add a slight tint to the power menu when wallpaper tint is off
+- Update network score from NetworkAgent
+- DUI: Fix button custom icons not loading on encrypted devices
+- Ambient music ticker: skip to next track if doubletap on track indicator
+- Ambient music ticker: if showing, extend timeout on track skip
+- Ambient music ticker minimal layout: fix overlapping notifications
+- [REVERT] Dismiss keyguard automatically when face is recognized
+- [REVERT] Check for Face Unlock Running before skipping bouncer
+- Clean up Accent picker
+- Theme service row background color
+- Update Penguins theme to v1.8
+- Settings: Use separate icon for flashlight power usage
+- Settings: Fix PrivateVolumeSettings be launched repeatedly
+- Settings: Fix time does not change after rotating device
+- Settings: Fix settings force close
+- Settings: add volume tone toggle back
+- Ensure screen pinning toast is themed
+
 ### CHANGELOG v3.9
 - Allow to disable the Wallpaper tint
 - Cleanup: Remove notifications media playing check 
