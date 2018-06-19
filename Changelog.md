@@ -10,6 +10,43 @@
 - Fix AOSP Dialer for squeeze to answer call
 - Enable AppOps
 
+### CHANGELOG v4.1
+- Ensure that locked recents apps are respected
+- Allow to kill any app from recents panel in a safe way
+- Fix CustomTile NPE in handleRefreshState
+- Remove useless dream manager isDozing check
+- Recents: allow single tap on app icon to show app info overlay
+- Gallery2: add FileProvider to fix FileUriExposedException
+- CellularTile: Don't call showDetail() when device is locked
+- Allow details view for Cellular tile when tile title is disabled
+- Add Square battery style
+- Add Volume tone toggle back
+- Add onLongClick functions to calendar/clock in qs footer
+- Split calendar from clock in qs footer
+- Add a ripple effect to the power menu items
+- Make scramble PIN layout Multi-User friendly
+- Comment/Remove dead code
+- Disable warning in StaticLayout
+- Fix left clock glitch on landscape and cleanup code
+- Resolve statusbar battery percentage tints
+- Disable misleading indexer messages 
+- Utilize the Utils in the fwb
+- Use separate icon for flashlight power usage
+- Fix PrivateVolumeSettings be launched repeatedly
+- Fix time does not change after rotating device
+- Resolve statusbar VPN icon tints
+- Fix settings force close
+- Fix traffic indicator tint
+- Add special captive portal servers for chinese
+- Fling reset button: more fixes
+- DUI: Update reset smartbar/fling options
+- Custom seekbar pref: allow to refresh values
+- Fix compilation warnings
+- Add back GoogleVrCore
+- Update CalendarGooglePrebuilt
+- Update Penguins theme to v1.9
+- Update About Rom
+
 ### CHANGELOG v4.0
 - Update revision to 8.1.0 r33 (OPM2.171026.006.C1)
 - Wahoo: Update kernel to 8.1.0_r0.65 (June)
