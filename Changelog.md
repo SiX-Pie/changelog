@@ -10,6 +10,40 @@
 - Fix AOSP Dialer for squeeze to answer call
 - Enable AppOps
 
+### CHANGELOG v4.2
+- Update revision to 8.1.0 r41 (OPM2.171026.006.G1)
+- Update Penguins theme to v2.1
+- Walleye: Update blobs to OPM2.171026.006.G1 (July)
+- Walleye: Add WfcActivation
+- Use white navbar for DocumentsUI
+- Lock rotation on SetupWizard
+- Wahoo: use nephilim vendor apns
+- CarrierConfig: Enable VoLTE and VoWiFi on various carriers
+- Speed up id3v2 unsynchronization
+- Fix security vulnerability in CryptoHal
+- aaudio: use weak pointer to prevent UAF
+- Add minimum size check for ImageGrid atom
+- Sanitize effect descriptors for AudioPolicyService binder calls
+- Add check preventing div0 issue
+- Init gain config to prevent uninit leak
+- Add Safety Net Log for getForbiddenPlmns security hole
+- Fix broken permission check for TelephonyManager#getForbiddenPlmns
+- Ensure our AOSP security dialog respects RTL
+- App notification config reset should also reset legacy notification
+- Fix crash issue when user uses multi-window mode on WifiCallingSettings
+- Add extra ripple for alarm and date
+- Fix ambient notification text default color
+- Fix doFadingAnimationLocked in sanitized builds 
+- Rotation button can't work at first time after rotate screen
+- Fix socket leaks in various android.net.Network methods
+- Fix slow-app ANR dumping 
+- Cache the global proxy to avoid fetching it for every request
+- Cache pin algorithms in PinSet
+- Don't update if HeadsUp is disabled
+- Use bool var judge whether the navi-keys enabled
+- Shamu: Fix Phone Info FC
+- CarrierConfig: Enable VoLTE and VoWiFi for Rogers, Fido, AT&T, Telstra Australia and Vodafone DE
+
 ### CHANGELOG v4.1
 - Ensure that locked recents apps are respected
 - Allow to kill any app from recents panel in a safe way

@@ -1,7 +1,7 @@
 ==========================
 ========ABOUT ROM========
 ==========================
-- Revision 8.1.0 r33 (OPM2.171026.006.C1)
+- Revision 8.1.0 r41 (OPM2.171026.006.G1)
 - Powered by S.i.X ROM
 - OTA Updates
 - ROM Logo in About Phone
