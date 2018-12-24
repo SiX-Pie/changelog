@@ -4,7 +4,7 @@
 
 ### Enjoy!!!
 
-### Changelog v1.3
+### Changelog v1.4
 - Move register AppIdle listener into onBootPhase
 - hiddenapi: add crc32 intrinsic methods to light-greylist
 - Fix VideoView parsing some URIs failure issue
@@ -16,8 +16,6 @@
 - ConnectionRecord: make SystemProcess Watchdog when clean app process
 - Change the listening logic of MtpStorageManager
 - Fix motion event offset of DecorView is moved in the window
-- Add SixPie theme v3.0 (for SixROM)
-- Add substratum v114 (for Magisk v17.1)
 - Update SoundPickerPrebuilt to v2.0
 - Replace some apps with aosp counterparts
 - Add Rom header to six settings (tap for mewe community link)
