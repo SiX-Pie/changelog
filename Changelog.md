@@ -2,7 +2,68 @@
 
 [<center><img src="https://lh3.googleusercontent.com/-Rrltg1YWxTU/WvIFBXnN_MI/AAAAAAABs4c/mDn7RVvnGrwkR0FFN7OqeDTW1Q0atlqVQCJoC/w179-h318-n-rw/IMG_20180508_160258.jpg" height="20%" width="20%;"/></center>](https://mewe.com/join/r3ds)
 
+- __[DOWNLOAD HERE](https://www.androidfilehost.com/?w=files&flid=256825)__
+
 ### Enjoy!!!
+
+### Changelog v1.5
+- base: SystemUI: tuner: fix hiding of statusbar clock
+- base: Disable screen saver by default
+- SystemUI: Disable WiFi data indicators by default
+- Allow user to set screenrecord quality
+- Re-Enable Burn-In Controllers for NavBar
+- base: FontService: Add a error for non-supported font packages
+- FontService: Support fonts from Substratum theme packages
+- FontService: Don't copy resources from /system/etc/fonts
+- Switching audio panel position
+- SystemUI: Use different drawables for notification volume
+- Fix the tint of the sliders in volume panel
+- Extended audio panel
+- Telephony: NPE observed in Settings when click on Search settings
+- Fix showing empty signal strength for TD-SCDMA
+- Fix property setting with failure
+- frameworks/base: Add HDMI hotplug handling
+- Check if EIMS when confirming network
+- net: modify connecitvity rematch logic to support MSIM devices
+- gralloc2: Extend the list of valid gralloc bits
+- Battery light: blend colors between full/empty
+- Full Charge Only, Fast Charge & Fast Led colors
+- Fix no default ringtone for slot2
+- Binder: Fix improper JNI call for dumpProxyDebugInfo
+- telephony: Conditionally ignore RSSNR signal level
+- Revert "Improve a calculation method for LTE antenna reception level"
+- Reload assets on overlay change: code improvements
+- Ambient Play: API rework
+- Fix autofill save text
+- base: Automatic notification style
+- base: op gesture tweaks
+- BoostFramework: Add debug to hide logcat spam on devices without QPer
+- Revert "Need to check empty not null for String"
+- Allow fingerprint in Pocket mode
+- telephony: Make IMS method updateToState accessible
+- base: fix mediascanner access permissions to external storage
+- core: Use darker shades for grey
+- SystemUI: allow the power menu to be relocated
+- SystemUI: Fix wrong SIM PIN message
+- Network traffic: skip more useless handler calls
+- Statusbar net monitor: stop the handler if screen is off
+- BoostFramework: silence exception about class not found
+- Add ColorBlendPreference
+- Restart SystemUI after changing theme
+- Add OnePlus dashboard icons
+- Add 20SEVEN font
+- Add GBoard MD2 themes
+- Settings: Fix crash due to volume unlink preference
+- Settings: clean SimPrefrenceDialog layout
+- Settings: fix neverending progress on sim activation change
+- Settings: no need to show a success alert dialog on sim switch
+- Settings: adjust layout of fingerprint find sensor layout
+- Settings: Allow devices to configure fingerprint sensor location
+- Settings: Use MD2 icons for sliders to match the volume panel
+- Settings: Use correct icon for ring volume
+- Settings: Notification log improvements
+- Settings: Expose the notification log
+- Settings: Move imei information to Sim status
 
 ### Changelog v1.4
 - Move register AppIdle listener into onBootPhase
@@ -19,8 +80,6 @@
 - Update SoundPickerPrebuilt to v2.0
 - Replace some apps with aosp counterparts
 - Add Rom header to six settings (tap for mewe community link)
-
-- __[DOWNLOAD HERE](https://www.androidfilehost.com/?w=files&flid=256825)__
 
 ### About ROM
 - Revision 9.0.0 r21 (PQ1A.181205.006)
