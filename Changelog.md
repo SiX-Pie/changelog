@@ -6,6 +6,57 @@
 
 ### Enjoy!!!
 
+### Changelog v1.6
+- Add Google Sound Search tile
+- SoundSearchTile: Make default state inactive
+- SystemUI: fix notification overlap with PIN screen
+- ResourceManager: Disable APK Assets cache
+- Speed up the notification panel pulldown animation when called extern
+- Change long click intent for smart pixels tile 
+- Network traffic: fix indicator not hiding on lost connection
+- Add button to AppErrorDialog to upload crash information to dogbin
+- core: Fix switching fragment appears white screen
+- SystemUI: Keyguard: Check for a null errString
+- Proximity check on wake fixes
+- MTP: Add support of ObjectInfoChanged Event
+- Revert Change the listening logic of MtpStorageManager
+- AMS: Fix the null pointer exception in MainHandler:handleMessage
+- AMS: Uncatch the IllegalStateException cause process crash
+- AMS: Fix the Deadlocks exception in UiHandler
+- AMS: Fix the null pointer exception in IntentResolver
+- StatusBar: corners: Fix dp evaluation
+- ScreenDecorations: corners: Fixes for pie
+- StatusBar: Port in restore fw values to corner settings
+- Weather client: switch to vector drawables
+- Weather client: improve/cleanup code
+- WeatherClient: don't check package availability on each location query
+- base: Switch styles
+- base: Add OOS style switches
+- base: QS count improvements
+- base: QS rows & columns customization
+- Cleanup QS rows & columns count
+- Ambient music ticker: don't trigger if it's not a media notification
+- base: QS themes
+- Network traffic location
+- Network traffic: Fix text size for network traffic type
+- Network traffic: Layout improvements
+- Network traffic: fix static color usage
+- Move net monitor to expanded statusbar header
+- NetworkTraffic: Fix gravity
+- Avoid casting network traffic to StatusBarIconView to prevent crash
+- Add network traffic monitor properly to statusbar icons
+- KeyguardHostView: Auto face unlock v2
+- FontService: Disable logspam
+- fonts: Build different fonts.xml if EXCLUDE_SERIF_FONTS is true
+- Systemui restart timeout causes black screen
+- Custom Icons handler: add launcher icon cache support
+- Stock Recents/Overview icon pack support
+- Move register AppIdle listener into onBootPhase
+- InputEvent: Skip IME stages dynamically
+- ViewRoot: Ensure we release surface from setWindowStopped
+- Weather client check: set interval to 20 minutes
+- Quick settings panel : Set transparency
+
 ### Changelog v1.5
 - base: SystemUI: tuner: fix hiding of statusbar clock
 - base: Disable screen saver by default
