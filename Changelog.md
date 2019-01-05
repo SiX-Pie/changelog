@@ -6,6 +6,50 @@
 
 ### Enjoy!!!
 
+### Changelog v1.7
+- Build Six OTA updates app
+- WeatherProvider: Remove unnecessary manifest declaration
+- Contacts: use white nav bar
+- Contacts: Allow calling contacts via specific phone accounts
+- Contacts: Place EmergencyInfo shortcut on drawer
+- Contacts: Place MyInfo shortcut on drawer
+- Contacts: Enable support for device contact.
+- Contacts: update splash screen to match the new icon
+- Contacts: adaptive icon
+- Contacts: define app category
+- Contacts: Hide CMAS dev options in user builds
+- CellBroadcastReceiver: switch using SettingsLib styles
+- Gallery: adaptive-icon
+- Gallery: define app category
+- Messaging: use white nav bar
+- Messaging: bump targetSDK to 28
+- Messaging: bump to targetSDK 24
+- Messaging: Fix crash when trying to view a vcf file
+- Messaging: Add "Mark as read" quick action for message notifications
+- Messaging: Fix crash of blocked participant list activity 
+- Messaging: Don't crash on unsupported shared content type
+- Messaging: fix bad recycle on sending two mms in a row
+- Messaging: Use app settings for conversation settings if no custom set
+- Messaging: app crashes after a few MMS
+- Messaging: Fixed storage permission issue for attachments
+- Messaging: Added support for video and audio mms attachments
+- Messaging: Play an audible notification on receiving a class zero message
+- Messaging: Implement saved video attachments in MMS 
+- Messaging: Fix menu item highlight color
+- Messaging: Toggable keyboard emoticons access
+- MessageQueue: Process pending messages per subscription
+- Messaging: change Avatar fontFamily to sans-serif-medium
+- Messaging: Add "Mark as read" quick action for message notifications
+- Messaging: bring back accent color
+- Messaging: adaptive icon
+- Messaging: define app category
+- MediaPicker: Check for NPE
+- Selinux: add domain for Gallery
+- Selinux: move snap_app type definition to public
+- Selinux: add domain for snap
+- Selinux: Label and allow init to write to I/O sched tuning nodes
+- Selinux: Allow adbd to set a system_prop
+
 ### Changelog v1.6
 - Add Google Sound Search tile
 - SoundSearchTile: Make default state inactive
