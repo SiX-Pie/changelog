@@ -6,6 +6,56 @@
 
 ### Enjoy!!!
 
+### Changelog v1.8
+- Revision 9.0.0 r30 (PQ1A.190105.004)
+- January security patched
+- Fixes for OTA updates
+- Fix NPE upon boot after changing keyguard wallpaper
+- Fix system ui crash when pinning screen
+- Make settings_dark colors same as material_dark
+- NFC tile: Make inactive drawable match other tiles
+- Replace AOSP Contacts/Dialer/Messaging for Google counterpart
+- Kernel: Merge tag android-9.0.0_r0.53 into android-msm-wahoo-4.4
+- Kernel: Linux 4.4.169
+- Kernel: Prevent some out of bound writes
+- Kernel: Add timeouts to avoid kernel lockups
+- Kernel: Add a missing write sync
+- Kernel: Fix probe error on devices with an empty SMB0001 ACPI device node
+- Kernel: Properly handle master timeout
+- Kernel: In Kconfig CONFIG_CIFS_POSIX needs depends on legacy (insecure cifs)
+- Kernel: Improve/fix ARM v7_dma_inv_range() unaligned address handling
+- Kernel: Disable hardware level MAC learning
+- Kernel: Whitelist all SAMSUNG MZ7KM solid-state disks
+- Kernel: Fix keyboard debounce configuration
+- Kernel: Off by one in mmp_clk_add()
+- Kernel: Add of_node_put()
+- Kernel: Add missing of_node_put()
+- Kernel: Add of_node_put()
+- Kernel: Add of_node_put()
+- Kernel: Fix a potential race in xprt_connect()
+- Kernel: Fix 802.3ad state sent to partner when unbinding slave
+- Kernel: Implement reads{x}()/writes{x}()
+- Kernel: Fix infinite loop on some screen widths
+- Kernel: Rearrange code to avoid multiple calls to free_irq during unload
+- Kernel: Fix NULL pointer dereference in iscsi_eh_session_reset
+- Kernel: Fix module init error paths for netlink
+- Kernel: Fix condition validating WMM IE
+- Kernel: Don't WARN on bad WMM parameters from buggy APs
+- Kernel: Fix a panic caused by NULL flush_cmd_control
+- Kernel: Fix NULL pointer access in teardown code
+- Kernel: Fix memory leak of instance function hash filters
+- Kernel: Fix memory leak in set_trigger_filter()
+- Kernel: Fix broken MMC on OMAP15XX/OMAP5910/OMAP310
+- Kernel: Fix spectre gadget in lookup_ioctx
+- Kernel: Fix IRQ offset typo for PH11
+- Kernel: Fix random libfdt related build errors
+- Kernel: Change /proc/timer_list from 0444 to 0400
+- Kernel: Allow users to limit scope of endpoint
+- Kernel: Lower default params
+- Kernel: Make input module parameters
+- Kernel: Allow full tree search
+- Kernel: Make test options module parameters
+
 ### Changelog v1.7
 - Build Six OTA updates app
 - WeatherProvider: Remove unnecessary manifest declaration
