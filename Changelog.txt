@@ -1,4 +1,37 @@
 ==========================
+=====CHANGELOG v1.9======
+==========================
+- Add libdmengine.so to lib64
+- Add DynamiteModulesA
+- Add AdsDynamite
+- Add DynamiteModulesC
+- Add CronetDynamite
+- Add DynamiteLoader
+- Add GoogleCertificates,
+- Add MapsDynamite
+- Add OTAConfigPrebuilt
+- Add GoogleCamera apk prof
+- Add MyVerizonServices
+- Add WfcActivation 
+- Add VerizonAuthDialog
+- Update GoogleContactsSyncAdapter
+- Update FaceLock 
+- Update libfacenet
+- Update ConnectivityMonitor
+- Update MarkupGoogle
+- Update SetupWizard
+- Update Phonesky
+- Update Matchmaker
+- Update GoogleServicesFramework 
+- Update GooglePartnerSetup
+- Update GoogleFeedback
+- Update GoogleBackupTransport
+- Update ConnMetrics
+- Update ConfigUpdater
+- Update Android Migrate
+- Update usr srec en-US
+
+==========================
 =====CHANGELOG v1.8======
 ==========================
 - Revision 9.0.0 r30 (PQ1A.190105.004)
