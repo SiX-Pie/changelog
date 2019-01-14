@@ -1,4 +1,81 @@
 ==========================
+=====CHANGELOG v2.0======
+==========================
+- Replace some Google apps for AOSP/Lineage
+- Fix DMService carrier provision random crash
+- Add SixPie substratum theme apk to OTA links
+- Do not use the default APN
+- build: Add ability to use preinstalled vendor.img
+- Default libnfc-nci.conf for GSI
+- sign_target_files: also replace fingerprint in system/vendor/build.prop
+- core: remove duplicated boot jars
+- Introduce non-preopt boot jars
+- Use 0 compression when creating the target_files package
+- Revert "build: Allow devices to provide prebuilt vbmeta image"
+- Revert "build: Allow building disabled vbmeta images in signing process"
+- envsetup: Make mgrep take a directory argument
+- build: get rid of the sparse expand stuff
+- Allow device tree to override audio_effects.conf
+- SystemUI: Fix too big spacing between QS icons in landscape on sw600dp
+- Remove unnecessary right padding from time picker
+- SystemUI: Modify ime navigation bar layout
+- fonts: Clean up absent fonts if EXCLUDE_SERIF_FONTS is true
+- base: fix signature spoofing and microg
+- Force disable PlayServices OTA checks
+- Bring back vendor mismatch message
+- Dynamically tell the user which vendor image is needed
+- Show a more descriptive message when vendor.img is out of date
+- Full gesture navbar: fix swipe to back glitches
+- Status bar clock customizations
+- Cleanup Statusbar clock customizations
+- Set corner content padding to 6dp
+- Add support for the .opus file format
+- fix deadlock of binder thread and ActivityManager
+- Fix deadlock in AcitivityManagerService
+- hwui: fix mmap leak of graphicsstats service
+- Fix memory leak caused by SystemUIDialog
+- widget: Fix DateTimeView fc issue
+- Update sound/vibrate notification key only when it actually buzz/beep
+- Check if notification is valid before it finally vibrates
+- Enable Binder Proxy Tracking by Uid only on eng builds
+- Support UnifiedNlp (microG)
+- core: only allow system-apps to fake signatures
+- Don't request render in GLSurfaceView.GLThread ctr
+- AppOpsService: Watch op mode changes when an AppOp restriction dies
+- ActionHandler: Google Sound Search actions: Let's extend it
+- settings: Enable proximity check on wake by default
+- sepolicy: allow update_engine to bypass neverallows for backuptool
+- sepolicy: Optionally build sepolicy_freeze_test
+- Allow e2fs to format cache
+- Allowing vold to search /mnt/vendor/*
+- sepolicy: Grant mediaextractor access to files over all sdcard fs types
+- Build sepolicy tools with Android.bp.
+- Fix issue that ro.telephony.default_network can't be read per slot
+- Fix storaged access to /sys/block/mmcblk0/stat after 48027a00
+- Allow mediaserver to read device directories
+- Add adb over network tile sepolicy
+- Change bootanimation for black six
+- iosched: restorecon scheduler tuneables before touching them
+- config: Add Deskclock to power whitelist
+- Remove deprecated ro.device.cache_dir
+- Don't explicitly build uneeded packages
+- Disable art debug and enable minimize debug info
+- extract_utils: avoid doing stuff on files that don't exist
+- Add techpack/audio to include path also
+- extract_utils: Redirect vdexextractor log to /dev/null
+- sensitive_pn: General update
+- Add CDEX support for boot JAR files
+- Allow init to relabel I/O sched tuning nodes
+- symlink libdmengine_32.so
+- wahoo: Allow Auto-brightness While dozing
+- wahoo: Build disabled VBMeta image
+- wahoo: Enable WiFi display
+- wahoo: Disable subsytem ramdumps
+- wahoo: Kill bugreport service
+- wahoo: Enable Fingerprint Gestures
+- wahoo: Address device specific denials
+
+==========================
 =====CHANGELOG v1.9======
 ==========================
 - Add libdmengine.so to lib64
